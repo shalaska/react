@@ -8,7 +8,6 @@ export class Footer extends React.Component {
       <div className='footer'>
         <p>Posted by: Mimo</p>
         <p>Contact information: Mimo </p>
-        <p>Contact information: Mimo </p>
       </div>
     )
   }
